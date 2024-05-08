@@ -1,0 +1,19 @@
+.vis-item.red {
+    border-color: black;
+    background-color: rgb(204, 9, 9);
+    opacity: 0.9;
+    -webkit-text-fill-color: whitesmoke;
+  }
+  
+  .vis-item.darkblue {
+    border-color: rgb(223, 211, 255);
+    background-color: rgb(5, 8, 63);
+    opacity: 0.9;
+    -webkit-text-fill-color: whitesmoke;
+  }
+  
+  .vis-item.lightblue {
+    border-color: rgb(223, 211, 255);
+    background-color: rgb(98, 171, 219);
+    opacity: 0.9;
+  }
