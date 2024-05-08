@@ -6,7 +6,7 @@ import React from "react";
 
 const Charts = () => {
   return (
-    <div className="w-[80%] flex flex-col items-center">
+    <div className="w-[80%] flex flex-col">
       <GanttChart />
       <StackedAreaChart />
     </div>
